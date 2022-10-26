@@ -11,10 +11,10 @@ const Developers = () => {
                 {/* grid item */}
                 <div className="flex flex-wrap justify-center">
                     <div className="w-64 sm:w-64 px-4">
-                        <img src="https://avatars.githubusercontent.com/u/74034797?s=400&u=8d250db9bceb4f7415526ea5b276c203f10e3fa9&v=4" alt="..." className="shadow rounded-full max-w-full h-auto align-middle border-none" />
+                        <img src="https://avatars.githubusercontent.com/u/70097740?s=400&u=d216d30f471fee52cadf8613e855062e391741d0&v=4" alt="..." className="shadow rounded-full max-w-full h-auto align-middle border-none" />
                     </div>
-                    <h3 className='font-bold mr-1'>John Ray Paulin, </h3>
-                    <p className='font-thin italic'>Lead Developer</p>
+                    <h3 className='font-bold mr-1'>Cherry Bon, </h3>
+                    <p className='font-thin italic'>Developer</p>
                 </div>           
                 {/* grid item */}  
 
