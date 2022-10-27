@@ -8,6 +8,7 @@ const Developers = () => {
                 {/* Add your profile here. You can upload your image to the repo under "images"  directory
                     and link it here.                
                 */}
+                 <img src="image/davemalinab.png"/>
                 {/* grid item */}
                 <div className="flex flex-wrap justify-center">
                     <div className="w-64 sm:w-64 px-4">
